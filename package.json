@@ -1,0 +1,25 @@
+{
+  "name": "react-deep-state",
+  "version": "1.0.0",
+  "description": "Component extension for convenience in nested state",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikfrank/react-deep-state.git"
+  },
+  "keywords": [
+    "react",
+    "component",
+    "nested",
+    "state"
+  ],
+  "author": "nik frank",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikfrank/react-deep-state/issues"
+  },
+  "homepage": "https://github.com/nikfrank/react-deep-state#readme"
+}
